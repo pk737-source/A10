@@ -18,7 +18,7 @@
   <h1>Cookie Page</h1>
   <p id="message"></p>
 
-  <footer>&copy; Copyright 2026 Pranav</footer>
+  <footer>&copy; Copyright Pranav Kurra, 2026</footer>
 
   <script>
     // Set a cookie (name, value, days until it expires)
